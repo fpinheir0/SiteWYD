@@ -1,2 +1,2 @@
 # SiteWYD
-Um site simples e funcional do famosos jogo WYD
+Um site simples e funcional do famoso jogo WYD
